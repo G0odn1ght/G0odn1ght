@@ -4,7 +4,7 @@ Data Science Projects
 <!-- ![Yandex-School-DA](https://user-images.githubusercontent.com/117658367/200413483-e4724c00-0bd6-4eb7-82b8-c3e3b0b58ab6.png) -->
 
 ### Сертификаты:
-Яндекс.Практикум: Специалист по Data Science [RUS]([https://github.com/G0odn1ght/Yandex-DS/tree/main/Drill](https://github.com/G0odn1ght/Yandex-DS/blob/main/Certificates/%D0%90%D0%BB%D0%B8%D0%B5%D0%B2%20%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B8%CC%86%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_20232DS00196.pdf))/[ENG]([https://github.com/G0odn1ght/Yandex-DS/tree/main/Drill](https://github.com/G0odn1ght/Yandex-DS/blob/main/Certificates/Andrei%20Aliev_20232DS00196.pdf))
+Яндекс.Практикум: Специалист по Data Science [RUS](https://github.com/G0odn1ght/Yandex-DS/blob/main/Certificates/%D0%90%D0%BB%D0%B8%D0%B5%D0%B2%20%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B8%CC%86%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_20232DS00196.pdf) / [ENG](https://github.com/G0odn1ght/Yandex-DS/blob/main/Certificates/Andrei%20Aliev_20232DS00196.pdf) 
 
 ## Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме
 
